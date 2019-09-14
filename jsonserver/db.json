@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "name": "Henry",
+      "phone": "333-444-555",
+      "email": "henry@gmail.com",
+      "id": 1,
+      "age": 30,
+      "companyId": 1
+    },
+    {
+      "name": "Bucky",
+      "phone": "333-444-555",
+      "email": "bucky@gmail.com",
+      "id": 2,
+      "age": 30,
+      "companyId": 2
+    },
+    {
+      "name": "zzz",
+      "phone": "333-444-555",
+      "email": "645112829@qq.com",
+      "id": 3,
+      "age": 30,
+      "companyId": 3
+    },
+    {
+      "name": "Henrydd",
+      "phone": "333-444-555",
+      "email": "henrydd@gmail.com",
+      "id": 4,
+      "age": 34,
+      "companyId": 3
+    },
+    {
+      "name": "why",
+      "email": "645112829@qq.com",
+      "companyId": 3,
+      "id": 6
+    },
+    {
+      "name": "why",
+      "phone": "12345678",
+      "email": "645112728@qq.com",
+      "education": "askd",
+      "gradutionschool": "ksabdk",
+      "profession": "sdkfn",
+      "profile": "kdsnkfsd",
+      "id": 7
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is Good!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is Good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is Good!"
+    }
+  ]
+}
